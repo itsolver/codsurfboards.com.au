@@ -1,0 +1,280 @@
+/* CSS Document */
+
+body {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+
+	background-color: #003399;
+
+}
+
+.tear {
+
+	background-attachment: scroll;
+
+	background-image: url(../images/nav_main tear.gif);
+
+	background-repeat: repeat-x;
+
+	background-position: left top;
+
+}
+
+
+
+.blacklines {
+
+	background-attachment: fixed;
+
+	background-image: url(../images/blackLines.gif);
+
+	background-repeat: repeat;
+
+	background-position: left top;
+
+}
+
+
+
+.footerCont {
+
+	background-attachment: scroll;
+
+	background-image: url(../images/footer cont.gif);
+
+	background-repeat: repeat-x;
+
+	background-position: left bottom;
+
+
+
+}
+
+
+
+#white-tear-top {
+
+	position:absolute;
+
+	left:0px;
+
+	top:222px;
+
+	width:100%;
+
+	height:33px;
+
+	background-attachment: scroll;
+
+	background-image: url(../images/white_tear.gif);
+
+	background-repeat: repeat-x;
+
+	background-position: left bottom;
+
+
+
+}
+
+
+
+#white-space {
+
+	position:absolute;
+
+	left:0px;
+
+	top:254px;
+
+	width:1245px;
+
+	height:842px;
+
+	background-color: #FFFFFF;
+
+	background-attachment: scroll;
+
+
+
+}
+
+
+
+#white-tear-bottom {
+
+	position:absolute;
+
+	left:-1px;
+
+	top:1096px;
+
+	width:100%;
+
+	height:33px;
+
+	background-attachment: scroll;
+
+	background-image: url(../images/white_tear_flipped.gif);
+
+	background-repeat: repeat-x;
+
+	background-position: left top;
+
+
+
+}
+
+
+
+#contact_title {
+
+	position:absolute;
+
+	left:25px;
+
+	top:211px;
+
+	width:226px;
+
+	height:28px;
+
+}
+
+
+
+#contact-title-bg {
+
+	position:absolute;
+
+	left:0px;
+
+	top:189px;
+
+	width:278px;
+
+	height:89px;
+
+}
+
+
+
+#contact-splash-02 {
+
+	position:absolute;
+
+	left:334px;
+
+	top:198px;
+
+	width:317px;
+
+	height:97px;
+
+}
+
+
+
+#contact-splash-03 {
+
+	position:absolute;
+
+	left:363px;
+
+	top:295px;
+
+	width:328px;
+
+	height:257px;
+
+}
+
+
+
+#contact-splash-text-bg {
+
+	position:absolute;
+
+	left:363px;
+
+	top:552px;
+
+	width:280px;
+
+	height:179px;
+
+
+
+}
+
+
+
+#contact-splash-04 {
+
+	position:absolute;
+
+	left:626px;
+
+	top:552px;
+
+	width:84px;
+
+	height:179px;
+
+}
+
+
+
+#contact-splash-05 {
+
+	position:absolute;
+
+	left:363px;
+
+	top:731px;
+
+	width:263px;
+
+	height:101px;
+
+}
+
+
+
+#contact-splash-01-01 {
+
+	position:absolute;
+
+	left:25px;
+
+	top:295px;
+
+	width:338px;
+
+	height:269px;
+
+}
+
+
+
+#contact-splash-01-02 {
+
+	position:absolute;
+
+	left:25px;
+
+	top:564px;
+
+	width:338px;
+
+	height:268px;
+
+}
+
+a:visited {
+
+	color: #0033CC;
+
+	text-decoration: underline;
+
+}
+

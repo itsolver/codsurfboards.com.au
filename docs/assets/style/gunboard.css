@@ -1,0 +1,378 @@
+/* CSS Document */
+
+
+
+/*#gunboard-05 {
+
+	position:absolute;
+
+	left:454px;
+
+	top:201px;
+
+	width:232px;
+
+	height:254px;
+
+	background-image:  url(../images/gunboard/gunboard_05.gif);
+
+	background-attachment: fixed;
+
+	background-repeat: no-repeat;
+
+	background-position: left top;
+
+}
+
+
+
+#gunboard-03 {
+
+	position:absolute;
+
+	left:237px;
+
+	top:227px;
+
+	width:217px;
+
+	height:345px;
+
+		background-image:  url(../images/gunboard/gunboard_03.gif);
+
+	background-attachment: fixed;
+
+	background-repeat: no-repeat;
+
+	background-position: left top;
+
+}
+
+
+
+#gunboard-02 {
+
+	position:absolute;
+
+	left:101px;
+
+	top:332px;
+
+	width:136px;
+
+	height:577px;
+
+		background-image:  url(../images/gunboard/gunboard_02.gif);
+
+	background-attachment: fixed;
+
+	background-repeat: no-repeat;
+
+	background-position: left top;
+
+}
+
+
+
+#gunboard-01 {
+
+	position:absolute;
+
+	left:0px;
+
+	top:435px;
+
+	width:101px;
+
+	height:377px;
+
+		background-image:  url(../images/gunboard/gunboard_01.gif);
+
+	background-attachment: fixed;
+
+	background-repeat: no-repeat;
+
+	background-position: left top;
+
+}
+
+
+
+#gunboard-06 {
+
+	position:absolute;
+
+	left:454px;
+
+	top:455px;
+
+	width:264px;
+
+	height:357px;
+
+		background-image:  url(../images/gunboard/gunboard_06.gif);
+
+	background-attachment: fixed;
+
+	background-repeat: no-repeat;
+
+	background-position: left top;
+
+}
+
+
+
+#gunboard-07 {
+
+	position:absolute;
+
+	left:718px;
+
+	top:455px;
+
+	width:43px;
+
+	height:160px;
+
+		background-image:  url(../images/gunboard/gunboard_07.gif);
+
+	background-attachment: fixed;
+
+	background-repeat: no-repeat;
+
+	background-position: left top;
+
+}
+
+
+
+#gunboard-04 {
+
+	position:absolute;
+
+	left:237px;
+
+	top:572px;
+
+	width:217px;
+
+	height:337px;
+
+		background-image:  url(../images/gunboard/gunboard_04.gif);
+
+	background-attachment: fixed;
+
+	background-repeat: no-repeat;
+
+	background-position: left top;
+
+}*/
+
+
+
+#imgSlice-02 {
+
+	position:absolute;
+
+	left:0px;
+
+	top:201px;
+
+	width:454px;
+
+	height:26px;
+
+}
+
+
+
+#gunboard-05 {
+
+	position:absolute;
+
+	left:454px;
+
+	top:201px;
+
+	width:232px;
+
+	height:254px;
+
+}
+
+
+
+#imgSlice-04 {
+
+	position:absolute;
+
+	left:686px;
+
+	top:201px;
+
+	width:65px;
+
+	height:254px;
+
+}
+
+
+
+#imgSlice-05 {
+
+	position:absolute;
+
+	left:0px;
+
+	top:227px;
+
+	width:237px;
+
+	height:105px;
+
+}
+
+
+
+#gunboard-03 {
+
+	position:absolute;
+
+	left:237px;
+
+	top:227px;
+
+	width:217px;
+
+	height:345px;
+
+}
+
+
+
+#imgSlice-07 {
+
+	position:absolute;
+
+	left:0px;
+
+	top:332px;
+
+	width:101px;
+
+	height:103px;
+
+}
+
+
+
+#gunboard-02 {
+
+	position:absolute;
+
+	left:101px;
+
+	top:332px;
+
+	width:136px;
+
+	height:577px;
+
+}
+
+
+
+#gunboard-01 {
+
+	position:absolute;
+
+	left:0px;
+
+	top:435px;
+
+	width:101px;
+
+	height:377px;
+
+}
+
+
+
+#gunboard-06 {
+
+	position:absolute;
+
+	left:454px;
+
+	top:455px;
+
+	width:297px;
+
+	height:357px;
+
+}
+
+
+
+#gunboard-04 {
+
+	position:absolute;
+
+	left:237px;
+
+	top:572px;
+
+	width:217px;
+
+	height:337px;
+
+}
+
+
+
+#imgSlice-13 {
+
+	position:absolute;
+
+	left:0px;
+
+	top:812px;
+
+	width:101px;
+
+	height:97px;
+
+}
+
+
+
+#imgSlice-14 {
+
+	position:absolute;
+
+	left:454px;
+
+	top:812px;
+
+	width:297px;
+
+	height:97px;
+
+}
+
+
+
+#gunboard-text {
+
+	position:absolute;
+
+	left:228px;
+
+	top:927px;
+
+	width:523px;
+
+	height:166px;
+
+}
+

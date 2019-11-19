@@ -1,0 +1,64 @@
+/* CSS Document */
+
+#about-title {
+
+position:absolute; 
+
+left:20px; 
+
+top:3px; 
+
+width:179px; 
+
+height:41px;
+
+}
+
+
+
+#youngPaul {
+
+position:absolute;
+
+left:19px;
+
+top:51px;
+
+width:477px;
+
+height:361px;
+
+}
+
+
+
+#text_one {
+
+	position:absolute; 
+
+left:356px; 
+
+top:52px; 
+
+width:409px; 
+
+height:353px; 
+
+}
+
+
+
+#text_two {
+
+position:absolute; 
+
+left:20px; 
+
+top:412px; 
+
+width:746px; 
+
+height:330px; 
+
+}
+
